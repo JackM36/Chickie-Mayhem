@@ -1,0 +1,14 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4130086526	Shoot_Chicken			\Default Work Unit\Shoot_Chicken	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	32660963	ChickenAlarm02	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\ChickenAlarm02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\RandomChickenAlarms\ChickenAlarm02		104144
+	41308696	Pistol_test	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Pistol_test_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pistol_test		44378
+	123511373	ChickenAlarm05	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\ChickenAlarm05_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\RandomChickenAlarms\ChickenAlarm05		92144
+	358305409	ChickenAlarm06	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\ChickenAlarm06_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\RandomChickenAlarms\ChickenAlarm06		112144
+	629142477	ChickenAlarm03	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\ChickenAlarm03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\RandomChickenAlarms\ChickenAlarm03		114544
+	646201796	ChickenAlarm07	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\ChickenAlarm07_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\RandomChickenAlarms\ChickenAlarm07		101744
+	725396793	ChickenAlarm08	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\ChickenAlarm08_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\RandomChickenAlarms\ChickenAlarm08		120144
+	732552141	ChickenAlarm01	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\ChickenAlarm01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\RandomChickenAlarms\ChickenAlarm01		99344
+	983034373	ChickenAlarm04	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\ChickenAlarm04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\RandomChickenAlarms\ChickenAlarm04		88144
+

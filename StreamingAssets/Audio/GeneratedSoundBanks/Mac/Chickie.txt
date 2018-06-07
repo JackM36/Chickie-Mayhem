@@ -1,0 +1,30 @@
+Event	ID	Name			Wwise Object Path	Notes
+	170707952	Chickie_Cluck			\Default Work Unit\Chickie_Cluck	
+	850200368	Chickie_Attack			\Default Work Unit\Chickie_Attack	
+	3045187071	Chickie_Cluck_Stop			\Default Work Unit\Chickie_Cluck_Stop	
+	3863523225	Chickie_Spawn			\Default Work Unit\Chickie_Spawn	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	56755298	Chickie_Cluck_loop_01	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Mac\SFX\Chickie_Cluck_loop_01_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie_Cluck\Chickie_Cluck_loop_01		3142992
+	59086708	Chickie_Spawn_09	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Mac\SFX\Chickie_Spawn_09_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie_Spawn\Chickie_Spawn_09		521552
+	79695686	Chickie_Spawn_01	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Mac\SFX\Chickie_Spawn_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie_Spawn\Chickie_Spawn_01		521552
+	188916780	Chickie_Attack_04	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Mac\SFX\Chickie_Attack_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie_Attack\Chickie_Attack_04		259408
+	218924593	Chickie_Spawn_06	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Mac\SFX\Chickie_Spawn_06_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie_Spawn\Chickie_Spawn_06		521552
+	229440466	Chickie_Spawn_05	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Mac\SFX\Chickie_Spawn_05_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie_Spawn\Chickie_Spawn_05		521552
+	282393961	Chickie_Cluck_loop_07	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Mac\SFX\Chickie_Cluck_loop_07_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie_Cluck\Chickie_Cluck_loop_07		3142992
+	325653129	Chickie_Spawn_07	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Mac\SFX\Chickie_Spawn_07_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie_Spawn\Chickie_Spawn_07		521552
+	373465164	Chickie_Cluck_loop_06	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Mac\SFX\Chickie_Cluck_loop_06_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie_Cluck\Chickie_Cluck_loop_06		3142992
+	377722599	Chickie_Spawn_03	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Mac\SFX\Chickie_Spawn_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie_Spawn\Chickie_Spawn_03		521552
+	392590050	Chickie_Attack_01	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Mac\SFX\Chickie_Attack_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie_Attack\Chickie_Attack_01		259408
+	416860139	Chickie_Spawn_08	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Mac\SFX\Chickie_Spawn_08_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie_Spawn\Chickie_Spawn_08		521552
+	555328330	Chickie_Attack_06	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Mac\SFX\Chickie_Attack_06_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie_Attack\Chickie_Attack_06		521552
+	597322087	Chickie_Cluck_loop_03	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Mac\SFX\Chickie_Cluck_loop_03_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie_Cluck\Chickie_Cluck_loop_03		3142992
+	658547119	Chickie_Cluck_loop_05	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Mac\SFX\Chickie_Cluck_loop_05_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie_Cluck\Chickie_Cluck_loop_05		3142992
+	680173248	Chickie_Attack_02	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Mac\SFX\Chickie_Attack_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie_Attack\Chickie_Attack_02		259408
+	821979399	Chickie_Cluck_loop_04	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Mac\SFX\Chickie_Cluck_loop_04_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie_Cluck\Chickie_Cluck_loop_04		3142992
+	867832132	Chickie_Attack_05	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Mac\SFX\Chickie_Attack_05_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie_Attack\Chickie_Attack_05		259408
+	932908235	Chickie_Attack_03	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Mac\SFX\Chickie_Attack_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie_Attack\Chickie_Attack_03		521552
+	1030687613	Chickie_Spawn_02	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Mac\SFX\Chickie_Spawn_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie_Spawn\Chickie_Spawn_02		521552
+	1038047472	Chickie_Cluck_loop_02	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Mac\SFX\Chickie_Cluck_loop_02_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie_Cluck\Chickie_Cluck_loop_02		3142992
+	1057422415	Chickie_Spawn_04	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Mac\SFX\Chickie_Spawn_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie_Spawn\Chickie_Spawn_04		521552
+

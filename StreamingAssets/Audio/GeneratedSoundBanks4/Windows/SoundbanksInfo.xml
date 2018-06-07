@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="120">
+	<RootPaths>
+		<ProjectRoot>/Users/Larsburgwal/Library/Application Support/Wwise2016/Bottles/wwise/dosdevices/y:/Dropbox (Work)/Running projects/GGJ '17/Wwise/GGJ 01/</ProjectRoot>
+		<SourceFilesRoot>/Users/Larsburgwal/Library/Application Support/Wwise2016/Bottles/wwise/dosdevices/y:/Dropbox (Work)/Running projects/GGJ '17/Wwise/GGJ 01/.cache/Windows/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/Larsburgwal/Library/Application Support/Wwise2016/Bottles/wwise/dosdevices/y:/Dropbox (Work)/Running projects/GGJ '17/Wwise/GGJ 01/GeneratedSoundBanks/Windows/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/Larsburgwal/Library/Application Support/Wwise2016/Bottles/wwise/dosdevices/y:/Dropbox (Work)/Running projects/GGJ '17/Wwise/GGJ 01/GeneratedSoundBanks/Windows/</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="85412153" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Ambience</ObjectPath>
+			<ShortName>Ambience</ShortName>
+			<Path>Ambience.bnk</Path>
+			<IncludedEvents>
+				<Event Id="85412153" Name="Ambience" ObjectPath="\Events\Default Work Unit\Ambience"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="173624120" Language="SFX">
+					<ShortName>central park nyc.wav</ShortName>
+					<Path>SFX/central park nyc_9E69E797.wem</Path>
+				</File>
+				<File Id="315916629" Language="SFX">
+					<ShortName>Water_Ambience.wav</ShortName>
+					<Path>SFX/Water_Ambience_9E69E797.wem</Path>
+				</File>
+				<File Id="381797892" Language="SFX">
+					<ShortName> Sirens.wav</ShortName>
+					<Path>SFX/ Sirens_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="157587169" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Chickie</ObjectPath>
+			<ShortName>Chickie</ShortName>
+			<Path>Chickie.bnk</Path>
+			<IncludedEvents>
+				<Event Id="850200368" Name="Chickie_Attack" ObjectPath="\Events\Default Work Unit\Chickie_Attack"/>
+				<Event Id="170707952" Name="Chickie_Cluck" ObjectPath="\Events\Default Work Unit\Chickie_Cluck"/>
+				<Event Id="3045187071" Name="Chickie_Cluck_Stop" ObjectPath="\Events\Default Work Unit\Chickie_Cluck_Stop" MaxAttenuation="0.000000"/>
+				<Event Id="3863523225" Name="Chickie_Spawn" ObjectPath="\Events\Default Work Unit\Chickie_Spawn"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="56755298" Language="SFX">
+					<ShortName>Chickie_Cluck_loop_01.wav</ShortName>
+					<Path>SFX/Chickie_Cluck_loop_01_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="59086708" Language="SFX">
+					<ShortName>Chickie_Spawn_09.wav</ShortName>
+					<Path>SFX/Chickie_Spawn_09_9E69E797.wem</Path>
+				</File>
+				<File Id="79695686" Language="SFX">
+					<ShortName>Chickie_Spawn_01.wav</ShortName>
+					<Path>SFX/Chickie_Spawn_01_9E69E797.wem</Path>
+				</File>
+				<File Id="188916780" Language="SFX">
+					<ShortName>Chickie_Attack_04.wav</ShortName>
+					<Path>SFX/Chickie_Attack_04_9E69E797.wem</Path>
+				</File>
+				<File Id="218924593" Language="SFX">
+					<ShortName>Chickie_Spawn_06.wav</ShortName>
+					<Path>SFX/Chickie_Spawn_06_9E69E797.wem</Path>
+				</File>
+				<File Id="229440466" Language="SFX">
+					<ShortName>Chickie_Spawn_05.wav</ShortName>
+					<Path>SFX/Chickie_Spawn_05_9E69E797.wem</Path>
+				</File>
+				<File Id="282393961" Language="SFX">
+					<ShortName>Chickie_Cluck_loop_07.wav</ShortName>
+					<Path>SFX/Chickie_Cluck_loop_07_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="325653129" Language="SFX">
+					<ShortName>Chickie_Spawn_07.wav</ShortName>
+					<Path>SFX/Chickie_Spawn_07_9E69E797.wem</Path>
+				</File>
+				<File Id="373465164" Language="SFX">
+					<ShortName>Chickie_Cluck_loop_06.wav</ShortName>
+					<Path>SFX/Chickie_Cluck_loop_06_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="377722599" Language="SFX">
+					<ShortName>Chickie_Spawn_03.wav</ShortName>
+					<Path>SFX/Chickie_Spawn_03_9E69E797.wem</Path>
+				</File>
+				<File Id="392590050" Language="SFX">
+					<ShortName>Chickie_Attack_01.wav</ShortName>
+					<Path>SFX/Chickie_Attack_01_9E69E797.wem</Path>
+				</File>
+				<File Id="416860139" Language="SFX">
+					<ShortName>Chickie_Spawn_08.wav</ShortName>
+					<Path>SFX/Chickie_Spawn_08_9E69E797.wem</Path>
+				</File>
+				<File Id="555328330" Language="SFX">
+					<ShortName>Chickie_Attack_06.wav</ShortName>
+					<Path>SFX/Chickie_Attack_06_9E69E797.wem</Path>
+				</File>
+				<File Id="597322087" Language="SFX">
+					<ShortName>Chickie_Cluck_loop_03.wav</ShortName>
+					<Path>SFX/Chickie_Cluck_loop_03_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="658547119" Language="SFX">
+					<ShortName>Chickie_Cluck_loop_05.wav</ShortName>
+					<Path>SFX/Chickie_Cluck_loop_05_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="680173248" Language="SFX">
+					<ShortName>Chickie_Attack_02.wav</ShortName>
+					<Path>SFX/Chickie_Attack_02_9E69E797.wem</Path>
+				</File>
+				<File Id="821979399" Language="SFX">
+					<ShortName>Chickie_Cluck_loop_04.wav</ShortName>
+					<Path>SFX/Chickie_Cluck_loop_04_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="867832132" Language="SFX">
+					<ShortName>Chickie_Attack_05.wav</ShortName>
+					<Path>SFX/Chickie_Attack_05_9E69E797.wem</Path>
+				</File>
+				<File Id="932908235" Language="SFX">
+					<ShortName>Chickie_Attack_03.wav</ShortName>
+					<Path>SFX/Chickie_Attack_03_9E69E797.wem</Path>
+				</File>
+				<File Id="1030687613" Language="SFX">
+					<ShortName>Chickie_Spawn_02.wav</ShortName>
+					<Path>SFX/Chickie_Spawn_02_9E69E797.wem</Path>
+				</File>
+				<File Id="1038047472" Language="SFX">
+					<ShortName>Chickie_Cluck_loop_02.wav</ShortName>
+					<Path>SFX/Chickie_Cluck_loop_02_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="1057422415" Language="SFX">
+					<ShortName>Chickie_Spawn_04.wav</ShortName>
+					<Path>SFX/Chickie_Spawn_04_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="288643575" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Protagonist</ObjectPath>
+			<ShortName>Protagonist</ShortName>
+			<Path>Protagonist.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1925025166" Name="Chickie_Die" ObjectPath="\Events\Default Work Unit\Chickie_Die"/>
+				<Event Id="340271938" Name="Walking" ObjectPath="\Events\Default Work Unit\Walking"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="43434096" Language="SFX">
+					<ShortName>Footstep_08.wav</ShortName>
+					<Path>SFX/Footstep_08_B286AC60.wem</Path>
+				</File>
+				<File Id="61104781" Language="SFX">
+					<ShortName>Chickie_Die_03.wav</ShortName>
+					<Path>SFX/Chickie_Die_03_9E69E797.wem</Path>
+				</File>
+				<File Id="159152250" Language="SFX">
+					<ShortName>Footstep_03.wav</ShortName>
+					<Path>SFX/Footstep_03_89FA1469.wem</Path>
+				</File>
+				<File Id="178222950" Language="SFX">
+					<ShortName>Chickie_Die_06.wav</ShortName>
+					<Path>SFX/Chickie_Die_06_9E69E797.wem</Path>
+				</File>
+				<File Id="214706411" Language="SFX">
+					<ShortName>Footstep_04.wav</ShortName>
+					<Path>SFX/Footstep_04_CC2D4A69.wem</Path>
+				</File>
+				<File Id="288937517" Language="SFX">
+					<ShortName>Chickie_Die_05.wav</ShortName>
+					<Path>SFX/Chickie_Die_05_9E69E797.wem</Path>
+				</File>
+				<File Id="342864392" Language="SFX">
+					<ShortName>Chickie_Die_07.wav</ShortName>
+					<Path>SFX/Chickie_Die_07_9E69E797.wem</Path>
+				</File>
+				<File Id="351952682" Language="SFX">
+					<ShortName>Footstep_06.wav</ShortName>
+					<Path>SFX/Footstep_06_4E8D01EB.wem</Path>
+				</File>
+				<File Id="480118755" Language="SFX">
+					<ShortName>Chickie_Die_08.wav</ShortName>
+					<Path>SFX/Chickie_Die_08_9E69E797.wem</Path>
+				</File>
+				<File Id="518795342" Language="SFX">
+					<ShortName>Chickie_Die_04.wav</ShortName>
+					<Path>SFX/Chickie_Die_04_9E69E797.wem</Path>
+				</File>
+				<File Id="551568687" Language="SFX">
+					<ShortName>Footstep_05.wav</ShortName>
+					<Path>SFX/Footstep_05_BD12F775.wem</Path>
+				</File>
+				<File Id="557077653" Language="SFX">
+					<ShortName>Footstep_07.wav</ShortName>
+					<Path>SFX/Footstep_07_C122D5C5.wem</Path>
+				</File>
+				<File Id="700869587" Language="SFX">
+					<ShortName>Footstep_10.wav</ShortName>
+					<Path>SFX/Footstep_10_84AF9D2B.wem</Path>
+				</File>
+				<File Id="721394246" Language="SFX">
+					<ShortName>Footstep_01.wav</ShortName>
+					<Path>SFX/Footstep_01_FD414FD8.wem</Path>
+				</File>
+				<File Id="750201711" Language="SFX">
+					<ShortName>Chickie_Die_01.wav</ShortName>
+					<Path>SFX/Chickie_Die_01_9E69E797.wem</Path>
+				</File>
+				<File Id="771292667" Language="SFX">
+					<ShortName>Footstep_09.wav</ShortName>
+					<Path>SFX/Footstep_09_86CB2965.wem</Path>
+				</File>
+				<File Id="840953479" Language="SFX">
+					<ShortName>Footstep_02.wav</ShortName>
+					<Path>SFX/Footstep_02_349009D5.wem</Path>
+				</File>
+				<File Id="1069692837" Language="SFX">
+					<ShortName>Chickie_Die_02.wav</ShortName>
+					<Path>SFX/Chickie_Die_02_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1467963052" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Weapons</ObjectPath>
+			<ShortName>Weapons</ShortName>
+			<Path>Weapons.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3921814510" Name="Bullet_Impact" ObjectPath="\Events\Default Work Unit\Bullet_Impact"/>
+				<Event Id="2833450406" Name="Grenade_Impact" ObjectPath="\Events\Default Work Unit\Grenade_Impact"/>
+				<Event Id="3702403660" Name="Weapon_Fire" ObjectPath="\Events\Default Work Unit\Weapon_Fire"/>
+				<Event Id="3674859828" Name="Weapon_Pickup" ObjectPath="\Events\Default Work Unit\Weapon_Pickup"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="5807691" Language="SFX">
+					<ShortName>Impact_Grenade_01.wav</ShortName>
+					<Path>SFX/Impact_Grenade_01_9E69E797.wem</Path>
+				</File>
+				<File Id="38150085" Language="SFX">
+					<ShortName>Impact_Grenade_03.wav</ShortName>
+					<Path>SFX/Impact_Grenade_03_9E69E797.wem</Path>
+				</File>
+				<File Id="149368140" Language="SFX">
+					<ShortName>Impact_Pistol_02.wav</ShortName>
+					<Path>SFX/Impact_Pistol_02_9E69E797.wem</Path>
+				</File>
+				<File Id="179005267" Language="SFX">
+					<ShortName>Impact_Pistol_03.wav</ShortName>
+					<Path>SFX/Impact_Pistol_03_9E69E797.wem</Path>
+				</File>
+				<File Id="215046435" Language="SFX">
+					<ShortName>Pickup_MachineGun.wav</ShortName>
+					<Path>SFX/Pickup_MachineGun_9E69E797.wem</Path>
+				</File>
+				<File Id="259193760" Language="SFX">
+					<ShortName>Fire_Flamethrower.wav</ShortName>
+					<Path>SFX/Fire_Flamethrower_9E69E797.wem</Path>
+				</File>
+				<File Id="380124857" Language="SFX">
+					<ShortName>Fire_Grenade.wav</ShortName>
+					<Path>SFX/Fire_Grenade_9E69E797.wem</Path>
+				</File>
+				<File Id="449734713" Language="SFX">
+					<ShortName>Impact_Pistol_05.wav</ShortName>
+					<Path>SFX/Impact_Pistol_05_9E69E797.wem</Path>
+				</File>
+				<File Id="557289908" Language="SFX">
+					<ShortName>Impact_MachineGun_04.wav</ShortName>
+					<Path>SFX/Impact_MachineGun_04_9E69E797.wem</Path>
+				</File>
+				<File Id="558780968" Language="SFX">
+					<ShortName>Impact_Grenade_04.wav</ShortName>
+					<Path>SFX/Impact_Grenade_04_9E69E797.wem</Path>
+				</File>
+				<File Id="567753190" Language="SFX">
+					<ShortName>Pickup_Grenade.wav</ShortName>
+					<Path>SFX/Pickup_Grenade_9E69E797.wem</Path>
+				</File>
+				<File Id="574605698" Language="SFX">
+					<ShortName>Fire_Pistol.wav</ShortName>
+					<Path>SFX/Fire_Pistol_9E69E797.wem</Path>
+				</File>
+				<File Id="626161314" Language="SFX">
+					<ShortName>Impact_Grenade_02.wav</ShortName>
+					<Path>SFX/Impact_Grenade_02_9E69E797.wem</Path>
+				</File>
+				<File Id="677001806" Language="SFX">
+					<ShortName>Fire_MachineGun.wav</ShortName>
+					<Path>SFX/Fire_MachineGun_9E69E797.wem</Path>
+				</File>
+				<File Id="685407996" Language="SFX">
+					<ShortName>Pickup_Flamethrower.wav</ShortName>
+					<Path>SFX/Pickup_Flamethrower_9E69E797.wem</Path>
+				</File>
+				<File Id="724802589" Language="SFX">
+					<ShortName>Impact_Pistol_04.wav</ShortName>
+					<Path>SFX/Impact_Pistol_04_9E69E797.wem</Path>
+				</File>
+				<File Id="736847903" Language="SFX">
+					<ShortName>Impact_MachineGun_02.wav</ShortName>
+					<Path>SFX/Impact_MachineGun_02_9E69E797.wem</Path>
+				</File>
+				<File Id="889628733" Language="SFX">
+					<ShortName>Impact_MachineGun_03.wav</ShortName>
+					<Path>SFX/Impact_MachineGun_03_9E69E797.wem</Path>
+				</File>
+				<File Id="938283416" Language="SFX">
+					<ShortName>Impact_Pistol_01.wav</ShortName>
+					<Path>SFX/Impact_Pistol_01_9E69E797.wem</Path>
+				</File>
+				<File Id="946566499" Language="SFX">
+					<ShortName>Impact_MachineGun_01.wav</ShortName>
+					<Path>SFX/Impact_MachineGun_01_9E69E797.wem</Path>
+				</File>
+				<File Id="958562211" Language="SFX">
+					<ShortName>Pickup_Pistol.wav</ShortName>
+					<Path>SFX/Pickup_Pistol_9E69E797.wem</Path>
+				</File>
+				<File Id="1053104702" Language="SFX">
+					<ShortName>Impact_MachineGun_05.wav</ShortName>
+					<Path>SFX/Impact_MachineGun_05_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1551306167" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\UI</ObjectPath>
+			<ShortName>UI</ShortName>
+			<Path>UI.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4203375351" Name="Menu_Select" ObjectPath="\Events\Default Work Unit\Menu_Select"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="14592755" Language="SFX">
+					<ShortName>Menu_select_04.wav</ShortName>
+					<Path>SFX/Menu_select_04_9E69E797.wem</Path>
+				</File>
+				<File Id="389757181" Language="SFX">
+					<ShortName>Menu_select_02.wav</ShortName>
+					<Path>SFX/Menu_select_02_9E69E797.wem</Path>
+				</File>
+				<File Id="508658857" Language="SFX">
+					<ShortName>Menu_select_01.wav</ShortName>
+					<Path>SFX/Menu_select_01_9E69E797.wem</Path>
+				</File>
+				<File Id="593237396" Language="SFX">
+					<ShortName>Menu_select_03.wav</ShortName>
+					<Path>SFX/Menu_select_03_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2600048462" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Powerups</ObjectPath>
+			<ShortName>Powerups</ShortName>
+			<Path>Powerups.bnk</Path>
+			<IncludedEvents>
+				<Event Id="484764186" Name="PowerSpeedUp" ObjectPath="\Events\Default Work Unit\PowerSpeedUp"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="65067735" Language="SFX">
+					<ShortName>Rooster_02.wav</ShortName>
+					<Path>SFX/Rooster_02_9E69E797.wem</Path>
+				</File>
+				<File Id="791609547" Language="SFX">
+					<ShortName>Rooster_01.wav</ShortName>
+					<Path>SFX/Rooster_01_9E69E797.wem</Path>
+				</File>
+				<File Id="1039815659" Language="SFX">
+					<ShortName>Rooster_03.wav</ShortName>
+					<Path>SFX/Rooster_03_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="3991942870" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Music</ObjectPath>
+			<ShortName>Music</ShortName>
+			<Path>Music.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2932040671" Name="Play_Music" ObjectPath="\Events\Default Work Unit\Play_Music"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="76770448" Language="SFX">
+					<ShortName>GGJ Music v2.wav</ShortName>
+					<Path>SFX/GGJ Music v2_4B8CC0C5.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

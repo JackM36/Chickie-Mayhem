@@ -1,0 +1,20 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3377908687	Chickies_Clucking			\Default Work Unit\Chickies_Clucking	
+	3863523225	Chickie_Spawn			\Default Work Unit\Chickie_Spawn	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	108495226	Chickie clucking loop soft_03	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Chickie clucking loop soft_D8D46D1B.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Background clucking\Chickie clucking loop soft_03		1558088
+	119702430	Chicken08	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Chicken08_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie clucking\Chicken08		137244
+	127991096	Chickie clucking loop soft	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Chickie clucking loop soft_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Background clucking\Chickie clucking loop soft		4368344
+	157699140	Chicken04	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Chicken04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie clucking\Chicken04		188344
+	209941640	Chickie clucking loop soft_01	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Chickie clucking loop soft_CE49F2C3.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Background clucking\Chickie clucking loop soft_01		2776788
+	491419043	Chicken03	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Chicken03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie clucking\Chicken03		184144
+	529514160	Chicken01	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Chicken01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie clucking\Chicken01		197944
+	607278194	Chicken06	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Chicken06_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie clucking\Chicken06		139244
+	638467314	Chicken09	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Chicken09_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie clucking\Chicken09		129744
+	694981385	Chickie clucking loop soft_02	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Chickie clucking loop soft_62036744.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Background clucking\Chickie clucking loop soft_02		2227180
+	786180479	Chicken07	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Chicken07_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie clucking\Chicken07		127344
+	807190080	Chicken10	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Chicken10_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie clucking\Chicken10		189444
+	854331344	Chicken02	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Chicken02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie clucking\Chicken02		184144
+	971927180	Chicken05	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Chicken05_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\CHICKIE\Chickie clucking\Chicken05		140144
+

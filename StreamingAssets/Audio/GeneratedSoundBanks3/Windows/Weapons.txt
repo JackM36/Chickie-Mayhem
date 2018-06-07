@@ -1,0 +1,39 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2833450406	Grenade_Impact			\Default Work Unit\Grenade_Impact	
+	3674859828	Weapon_Pickup			\Default Work Unit\Weapon_Pickup	
+	3702403660	Weapon_Fire			\Default Work Unit\Weapon_Fire	
+	3921814510	Bullet_Impact			\Default Work Unit\Bullet_Impact	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	3893417221	Weapon			\Default Work Unit\Weapon	
+
+Switch	ID	Name	Switch Group			Notes
+	324443136	Pistol	Weapon			
+	2691847895	Flamethrower	Weapon			
+	3255686181	Grenade	Weapon			
+	3776419406	Minigun	Weapon			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	5807691	Impact_Grenade_01	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Impact_Grenade_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\WEAPONS\Weapon_Impact\Grenade_Impact\Impact_Grenade_01		246144
+	38150085	Impact_Grenade_03	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Impact_Grenade_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\WEAPONS\Weapon_Impact\Grenade_Impact\Impact_Grenade_03		238144
+	149368140	Impact_Pistol_02	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Impact_Pistol_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\WEAPONS\Weapon_Impact\Bullet_Impact\Pistol_Impact\Impact_Pistol_02		111544
+	179005267	Impact_Pistol_03	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Impact_Pistol_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\WEAPONS\Weapon_Impact\Bullet_Impact\Pistol_Impact\Impact_Pistol_03		101744
+	215046435	Pickup_MachineGun	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Pickup_MachineGun_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\WEAPONS\Weapon_Pickup\Pickup_MachineGun		78844
+	259193760	Fire_Flamethrower	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Fire_Flamethrower_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\WEAPONS\Weapon_Fire\Fire_Flamethrower		777944
+	380124857	Fire_Grenade	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Fire_Grenade_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\WEAPONS\Weapon_Fire\Fire_Grenade		259408
+	449734713	Impact_Pistol_05	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Impact_Pistol_05_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\WEAPONS\Weapon_Impact\Bullet_Impact\Pistol_Impact\Impact_Pistol_05		105844
+	557289908	Impact_MachineGun_04	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Impact_MachineGun_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\WEAPONS\Weapon_Impact\Bullet_Impact\MachineGun_Impact\Impact_MachineGun_04		46044
+	558780968	Impact_Grenade_04	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Impact_Grenade_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\WEAPONS\Weapon_Impact\Grenade_Impact\Impact_Grenade_04		238144
+	567753190	Pickup_Grenade	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Pickup_Grenade_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\WEAPONS\Weapon_Pickup\Pickup_Grenade		51144
+	574605698	Fire_Pistol	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Fire_Pistol_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\WEAPONS\Weapon_Fire\Fire_Pistol		121744
+	626161314	Impact_Grenade_02	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Impact_Grenade_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\WEAPONS\Weapon_Impact\Grenade_Impact\Impact_Grenade_02		246144
+	677001806	Fire_MachineGun	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Fire_MachineGun_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\WEAPONS\Weapon_Fire\Fire_MachineGun		99844
+	685407996	Pickup_Flamethrower	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Pickup_Flamethrower_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\WEAPONS\Weapon_Pickup\Pickup_Flamethrower		193944
+	724802589	Impact_Pistol_04	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Impact_Pistol_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\WEAPONS\Weapon_Impact\Bullet_Impact\Pistol_Impact\Impact_Pistol_04		105744
+	736847903	Impact_MachineGun_02	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Impact_MachineGun_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\WEAPONS\Weapon_Impact\Bullet_Impact\MachineGun_Impact\Impact_MachineGun_02		35956
+	889628733	Impact_MachineGun_03	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Impact_MachineGun_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\WEAPONS\Weapon_Impact\Bullet_Impact\MachineGun_Impact\Impact_MachineGun_03		43044
+	938283416	Impact_Pistol_01	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Impact_Pistol_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\WEAPONS\Weapon_Impact\Bullet_Impact\Pistol_Impact\Impact_Pistol_01		96844
+	946566499	Impact_MachineGun_01	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Impact_MachineGun_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\WEAPONS\Weapon_Impact\Bullet_Impact\MachineGun_Impact\Impact_MachineGun_01		31944
+	958562211	Pickup_Pistol	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Pickup_Pistol_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\WEAPONS\Weapon_Pickup\Pickup_Pistol		83664
+	1053104702	Impact_MachineGun_05	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Impact_MachineGun_05_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\WEAPONS\Weapon_Impact\Bullet_Impact\MachineGun_Impact\Impact_MachineGun_05		48844
+

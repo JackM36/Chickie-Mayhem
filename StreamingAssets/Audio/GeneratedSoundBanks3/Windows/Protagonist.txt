@@ -1,0 +1,72 @@
+Event	ID	Name			Wwise Object Path	Notes
+	340271938	Walking			\Default Work Unit\Walking	
+	810970808	Character_VO			\Default Work Unit\Character_VO	
+	1925025166	Chickie_Die			\Default Work Unit\Chickie_Die	
+	2990357609	Character_Die			\Default Work Unit\Character_Die	
+	3333935137	Character_VO_Taunt			\Default Work Unit\Character_VO_Taunt	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	436743010	Character			\Default Work Unit\Character	
+
+Switch	ID	Name	Switch Group			Notes
+	707051848	MCClown	Character			
+	1419073108	Ckickie	Character			
+	1997285300	King	Character			
+	2448265983	CookieMonster	Character			
+	3024550177	KFCColonel	Character			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	8800361	VO_ Cookie_04	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Cookie_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Cookie_VO\VO_ Cookie_04		1036744
+	12354277	VO_ Cookie_03	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Cookie_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Cookie_VO\VO_ Cookie_03		865544
+	43434096	Footstep_08	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Footstep_08_B286AC60.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Footsteps\Footstep_08		38236
+	52182187	VO_ Colonel_05	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Colonel_05_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Colonel_VO\VO_ Colonel_05		702884
+	54886652	VO_ Ronald_09	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Ronald_09_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Ronald_VO\VO_ Ronald_09		510644
+	61104781	Chickie_Die_03	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Chickie_Die_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_Die\Chickie_Die\Chickie_Die_03		521552
+	112140920	VO_ Ronald_Death_01	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Ronald_Death_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_Die\Ronald_Die\VO_ Ronald_Death_01		140144
+	159152250	Footstep_03	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Footstep_03_89FA1469.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Footsteps\Footstep_03		48084
+	164416515	VO_ Colonel_Death_01	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Colonel_Death_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_Die\Colonel_Die\VO_ Colonel_Death_01		340724
+	178222950	Chickie_Die_06	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Chickie_Die_06_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_Die\Chickie_Die\Chickie_Die_06		521552
+	214706411	Footstep_04	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Footstep_04_CC2D4A69.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Footsteps\Footstep_04		48300
+	288937517	Chickie_Die_05	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Chickie_Die_05_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_Die\Chickie_Die\Chickie_Die_05		521552
+	289708780	VO_ Colonel_09	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Colonel_09_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Colonel_VO\VO_ Colonel_09		310724
+	342864392	Chickie_Die_07	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Chickie_Die_07_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_Die\Chickie_Die\Chickie_Die_07		521552
+	351952682	Footstep_06	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Footstep_06_4E8D01EB.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Footsteps\Footstep_06		46140
+	375446825	VO_ Ronald_02	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Ronald_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Ronald_VO\VO_ Ronald_02		301288
+	423202360	VO_ Colonel_06	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Colonel_06_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Colonel_VO\VO_ Colonel_06		399764
+	455992134	VO_ Cookie_Death_01	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Cookie_Death_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_Die\Cookie_Die\VO_ Cookie_Death_01		238564
+	460806560	VO_ Colonel_02	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Colonel_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Colonel_VO\VO_ Colonel_02		297844
+	480118755	Chickie_Die_08	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Chickie_Die_08_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_Die\Chickie_Die\Chickie_Die_08		521552
+	518795342	Chickie_Die_04	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Chickie_Die_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_Die\Chickie_Die\Chickie_Die_04		521552
+	549858028	VO_ Cookie_Death_02	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Cookie_Death_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_Die\Cookie_Die\VO_ Cookie_Death_02		166844
+	551568687	Footstep_05	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Footstep_05_BD12F775.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Footsteps\Footstep_05		43860
+	552262824	VO_ Cookie_07	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Cookie_07_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Cookie_VO\VO_ Cookie_07		500144
+	557077653	Footstep_07	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Footstep_07_C122D5C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Footsteps\Footstep_07		47076
+	561823111	VO_ Ronald_06	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Ronald_06_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Ronald_VO\VO_ Ronald_06		469792
+	585032021	VO_ Cookie_02	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Cookie_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Cookie_VO\VO_ Cookie_02		500144
+	588396654	VO_ Colonel_07	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Colonel_07_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Colonel_VO\VO_ Colonel_07		734564
+	610451354	VO_ Ronald_Death_03	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Ronald_Death_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_Die\Ronald_Die\VO_ Ronald_Death_03		112144
+	629472619	VO_ Colonel_03	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Colonel_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Colonel_VO\VO_ Colonel_03		287476
+	635698849	VO_ Cookie_09	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Cookie_09_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Cookie_VO\VO_ Cookie_09		529084
+	649310406	VO_ Ronald_03	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Ronald_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Ronald_VO\VO_ Ronald_03		231324
+	650778019	VO_ Cookie_06	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Cookie_06_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Cookie_VO\VO_ Cookie_06		440664
+	677205275	VO_ Cookie_01	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Cookie_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Cookie_VO\VO_ Cookie_01		457364
+	700869587	Footstep_10	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Footstep_10_84AF9D2B.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Footsteps\Footstep_10		49340
+	709675213	VO_ Ronald_07	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Ronald_07_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Ronald_VO\VO_ Ronald_07		345824
+	721394246	Footstep_01	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Footstep_01_FD414FD8.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Footsteps\Footstep_01		51180
+	750201711	Chickie_Die_01	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Chickie_Die_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_Die\Chickie_Die\Chickie_Die_01		521552
+	771292667	Footstep_09	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Footstep_09_86CB2965.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Footsteps\Footstep_09		45012
+	781815139	VO_ Colonel_01	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Colonel_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Colonel_VO\VO_ Colonel_01		302544
+	798261422	VO_ Colonel_04	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Colonel_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Colonel_VO\VO_ Colonel_04		632144
+	813857318	VO_ Ronald_08	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Ronald_08_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Ronald_VO\VO_ Ronald_08		374336
+	828697095	VO_ Ronald_04	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Ronald_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Ronald_VO\VO_ Ronald_04		321760
+	840953479	Footstep_02	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Footstep_02_349009D5.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Footsteps\Footstep_02		52292
+	879414822	VO_ Colonel_08	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Colonel_08_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Colonel_VO\VO_ Colonel_08		560364
+	950490513	VO_ Cookie_05	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Cookie_05_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Cookie_VO\VO_ Cookie_05		722132
+	960408514	VO_ Cookie_08	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Cookie_08_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Cookie_VO\VO_ Cookie_08		409412
+	972660072	VO_ Ronald_Death_02	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Ronald_Death_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_Die\Ronald_Die\VO_ Ronald_Death_02		84144
+	974885835	VO_ Ronald_01	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Ronald_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Ronald_VO\VO_ Ronald_01		295924
+	1039246492	VO_ Ronald_05	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Ronald_05_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_VO\Ronald_VO\VO_ Ronald_05		210260
+	1051264333	VO_ Colonel_Death_02	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Colonel_Death_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_Die\Colonel_Die\VO_ Colonel_Death_02		324144
+	1052904514	VO_ Ronald_Death_04	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\VO_ Ronald_Death_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_Die\Ronald_Die\VO_ Ronald_Death_04		128144
+	1069692837	Chickie_Die_02	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Chickie_Die_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\PT\Character_Die\Chickie_Die\Chickie_Die_02		521552
+

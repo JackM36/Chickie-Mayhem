@@ -1,0 +1,7 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3227181061	Music_Stop			\Default Work Unit\Music_Stop	
+	3725903807	Music_Start			\Default Work Unit\Music_Start	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	76770448	GGJ Music v2	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\GGJ Music v2_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Music\GGJ Music v2		15984016
+

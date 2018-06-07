@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4130086526	Shoot_Chicken			\Default Work Unit\Shoot_Chicken	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	949457520	Pistol_test	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Pistol_test_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pistol_test		44378
+

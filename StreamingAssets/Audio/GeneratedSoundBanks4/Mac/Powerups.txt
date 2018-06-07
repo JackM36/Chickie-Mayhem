@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	484764186	PowerSpeedUp			\Default Work Unit\PowerSpeedUp	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	65067735	Rooster_02	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Mac\SFX\Rooster_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\Powerups\Rooster\Rooster_02		783696
+	791609547	Rooster_01	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Mac\SFX\Rooster_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\Powerups\Rooster\Rooster_01		783696
+	1039815659	Rooster_03	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Mac\SFX\Rooster_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GAMEPLAY\Powerups\Rooster\Rooster_03		783696
+

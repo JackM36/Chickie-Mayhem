@@ -1,0 +1,9 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4203375351	Menu_Select			\Default Work Unit\Menu_Select	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	14592755	Menu_select_04	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Menu_select_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\Menu_Select\Menu_select_04		24144
+	389757181	Menu_select_02	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Menu_select_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\Menu_Select\Menu_select_02		24144
+	508658857	Menu_select_01	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Menu_select_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\Menu_Select\Menu_select_01		24144
+	593237396	Menu_select_03	Y:\Dropbox (Work)\Running projects\GGJ '17\Wwise\GGJ 01\.cache\Windows\SFX\Menu_select_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\Menu_Select\Menu_select_03		24144
+
