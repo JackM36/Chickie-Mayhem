@@ -11,7 +11,7 @@ Chickie Mayhem is a fast paced shoot 'em up local multiplayer arena game. The ga
 - Play with controllers.
 
 ## Screenshots
-![Screen1](http://www.jackhadjicosti.com/projects/11/img/screen1.png "Character Selection")
-![Screen2](http://www.jackhadjicosti.com/projects/11/img/screen2.png "Gameplay")
-![Screen3](http://www.jackhadjicosti.com/projects/11/img/screen3.png "Gameplay")
-![Screen4](http://www.jackhadjicosti.com/projects/11/img/screen4.png "Gameplay")
+![Screen1](http://www.jackhadjicosti.com/Projects/Chickie-Mayhem/img/Gallery/screen1.png "Character Selection")
+![Screen2](http://www.jackhadjicosti.com/Projects/Chickie-Mayhem/img/Gallery/screen2.png "Gameplay")
+![Screen3](http://www.jackhadjicosti.com/Projects/Chickie-Mayhem/img/Gallery/screen3.png "Gameplay")
+![Screen4](http://www.jackhadjicosti.com/Projects/Chickie-Mayhem/img/Gallery/screen4.png "Gameplay")
